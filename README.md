@@ -87,7 +87,11 @@ It is highly imbalanced, with fraudulent transactions making up a small fraction
 - Scikit-learn documentation
 - imbalanced-learn library
 
+## 🙋‍♂️ Author
 
+Kardam Singhal  
+🔗 [LinkedIn](https://www.linkedin.com/in/kardamsinghal)  
+📫 Email: kardamsinghalllll@gmail.com
 
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details
