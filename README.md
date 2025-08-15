@@ -82,17 +82,6 @@ It is highly imbalanced, with fraudulent transactions making up a small fraction
 
 ---
 
-## 📁 Project Structure
-CreditCardFraudDetection/
-│
-├── data/                  # Dataset files
-├── notebooks/             # Jupyter notebooks
-├── models/                # Saved models
-├── results/               # Graphs, metrics, reports
-├── utils/                 # Helper scripts
-├── requirements.txt       # Dependencies
-└── README.md              # Documentation
-
 ## 🙌 Acknowledgments
 - Kaggle Dataset by Kartik2112
 - Scikit-learn documentation
@@ -100,5 +89,5 @@ CreditCardFraudDetection/
 
 
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details
